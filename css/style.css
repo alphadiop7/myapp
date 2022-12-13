@@ -1,0 +1,12 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.navbar-brand {
+    font-weight: 600;
+    background-color: #0d6efd;
+    border-radius: 3px;
+    padding: 7px;
+}
